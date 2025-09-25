@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node app.js"
+}
 {
   "name": "nodejs-restapi-poc",
   "version": "1.0.0",
